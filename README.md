@@ -1,8 +1,8 @@
 # PyFi
-Author: Marcus Lawrence /n
-Date: 4th December 2024 /n
-Title: Python for Personal Finance /n
-Objective: Use Python for Data Science to drive sound financial decisions /n
+Author: Marcus Lawrence 
+Date: 4th December 2024 
+Title: Python for Personal Finance 
+Objective: Use Python for Data Science to drive sound financial decisions 
 
 ************
 INSTRUCTIONS
